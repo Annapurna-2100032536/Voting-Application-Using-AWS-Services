@@ -1,0 +1,3 @@
+Create Table 
+with Item Attribute as -> candidate
+dont create tally attribute 
