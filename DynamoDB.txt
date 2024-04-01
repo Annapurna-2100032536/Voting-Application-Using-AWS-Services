@@ -1,3 +1,2 @@
 Create Table 
-with Item Attribute as -> candidate
-dont create tally attribute 
+with Item Attribute as -> candidate or sports (you can give anything as per your choice).
